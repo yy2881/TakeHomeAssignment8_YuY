@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment8_YuY</string>
+    <string name="question1">The first Iron Man movie was released in 2005.</string>
+    <string name="question2">Thor teams up with Hulk in Thor: Ragnarok.</string>
+    <string name="question3">Black Panther sets in the fictional country Wakanda.</string>
+    <string name="question4">Black Widow first appeared in The Incredible Hulk.</string>
+    <string name="question5">Bucky Barnes is better known as the Winter Soldier.</string>
+    <string name="question6">It\'s the Unobtainium that gives the Wakandans their power.</string>
+    <string name="no1">Statement1</string>
+    <string name="no2">Statement2</string>
+    <string name="no3">Statement3</string>
+    <string name="no4">Statement4</string>
+    <string name="no5">Statement5</string>
+    <string name="no6">Statement6</string>
+</resources>
